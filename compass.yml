@@ -1,0 +1,18 @@
+name: foodapp
+id: ari:cloud:compass:61801825-5ff2-44f0-be3c-c97b543a51d6:component/ed8553f3-6362-4905-a89f-72c7e154939b/d31e3ba4-1479-491d-b596-0e7e1814bff2
+description: null
+configVersion: 1
+typeId: APPLICATION
+ownerId: ari:cloud:identity::team/49f57075-e5ff-4c4e-9fb3-f310a6163ce8
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Spiritbulb/foodapp
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+customFields: null
